@@ -2,3 +2,8 @@ hey is added
 hello text
 let add something
 master commit after making developer 2 branch
+commit1
+commit2
+commit3
+commit4
+develop2 first commit1
